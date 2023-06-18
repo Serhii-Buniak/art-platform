@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Space Grotesk";
+    src: local("Space Grotesk Medium"), local("Space-Grotesk-Medium"),
+        url("./fonts/SpaceGrotesk-Medium.woff2") format("woff2"), 
+        url("./fonts/SpaceGrotesk-Medium.woff") format("woff"),
+        url("./fonts/SpaceGrotesk-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Arsenal';
+    src: local('Arsenal Bold'), local('Arsenal-Bold'),
+        url('./fonts/Arsenal-Bold.woff2') format('woff2'),
+        url('./fonts/Arsenal-Bold.woff') format('woff'),
+        url('./fonts/Arsenal-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+        url('./fonts/Gilroy-Regular.woff2') format('woff2'),
+        url('./fonts/Gilroy-Regular.woff') format('woff'),
+        url('./fonts/Gilroy-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+@font-face {
+    font-family: 'Gilroy';
+    src: local('Gilroy Bold'), local('Gilroy-Bold'),
+        url('./fonts/Gilroy-Bold.woff2') format('woff2'),
+        url('./fonts/Gilroy-Bold.woff') format('woff'),
+        url('./fonts/Gilroy-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Work Sans';
+    src: local('Work Sans Regular'), local('Work-Sans-Regular'),
+        url('./fonts/WorkSans-Regular.woff2') format('woff2'),
+        url('./fonts/WorkSans-Regular.woff') format('woff'),
+        url('./fonts/WorkSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
